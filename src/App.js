@@ -8,8 +8,14 @@ function App() {
   const [text, setText] = useState(``);
   const editor = useRef(null);
   const previewer = useRef(null);
-  const editorToggler = () => editor.current.classList.toggle('full');
-  const previewerToggler = () => previewer.current.classList.toggle('full');
+  const editorToggler = () => {
+    editor.current.classList.toggle('full');
+    previewer.current.classList.toggle('hide');
+  }
+  const previewerToggler = () => {
+    previewer.current.classList.toggle('full');
+    editor.current.classList.toggle('hide')
+  };
   return (
     <div className="App">
       <div className={`editor`} ref={editor}>
