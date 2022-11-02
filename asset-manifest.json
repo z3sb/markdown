@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/markdown/static/css/main.daa99d6f.css",
-    "main.js": "/markdown/static/js/main.d0d22600.js",
+    "main.css": "/markdown/static/css/main.60a33e4a.css",
+    "main.js": "/markdown/static/js/main.16332ccd.js",
     "static/media/remixicon.svg?t=1590207869815": "/markdown/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/markdown/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/markdown/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/remixicon.woff?t=1590207869815": "/markdown/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/markdown/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/markdown/index.html",
-    "main.daa99d6f.css.map": "/markdown/static/css/main.daa99d6f.css.map",
-    "main.d0d22600.js.map": "/markdown/static/js/main.d0d22600.js.map"
+    "main.60a33e4a.css.map": "/markdown/static/css/main.60a33e4a.css.map",
+    "main.16332ccd.js.map": "/markdown/static/js/main.16332ccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.daa99d6f.css",
-    "static/js/main.d0d22600.js"
+    "static/css/main.60a33e4a.css",
+    "static/js/main.16332ccd.js"
   ]
 }
